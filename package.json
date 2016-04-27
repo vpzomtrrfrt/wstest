@@ -1,0 +1,21 @@
+{
+  "name": "wstest",
+  "version": "1.0.0",
+  "description": "Collection of functions to help with testing WebSockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpzomtrrfrt/wstest.git"
+  },
+  "keywords": [
+    "WebSockets"
+  ],
+  "author": "vpzomtrrfrt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vpzomtrrfrt/wstest/issues"
+  }
+}
