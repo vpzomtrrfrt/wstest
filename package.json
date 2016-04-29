@@ -4,7 +4,7 @@
   "description": "Collection of functions to help with testing WebSockets",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vpzomtrrfrt/wstest/issues"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "ws": "^1.1.0"
   }
 }
